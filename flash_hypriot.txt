@@ -1,0 +1,2 @@
+flash -d /dev/disk3 --userdata ./user-data hypriotos-rpi-v1.9.0.img
+
